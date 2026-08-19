@@ -1,0 +1,14 @@
+{
+  "auth_type": "sql_server",
+  "database": "EMINENTERP",
+  "driver": "ODBC Driver 18 for SQL Server",
+  "encrypt": true,
+  "host": "localhost",
+  "instance": "",
+  "password": "change-me",
+  "port": null,
+  "schema": "erp",
+  "timeout": 30,
+  "trust_server_certificate": true,
+  "user": "sa"
+}

@@ -1,0 +1,24 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Build artifacts
+dist/
+build/
+*.spec
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Local runtime settings with machine-specific paths or credentials
+tmp/database_settings.json
